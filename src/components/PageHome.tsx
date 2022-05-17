@@ -24,8 +24,6 @@ const PageHome: Component = () => {
     return filteredResults.filter((code) => !pinned.items.find((p) => p.code === code)).slice(0, max);
   });
 
-  console.log(filtered());
-
   return (
     <div>
       {pinned.items.length ? (

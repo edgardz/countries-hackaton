@@ -24,16 +24,16 @@ function fetchData() {
         for (const country of data) {
           parsed.push({
             code: country.cca3,
-            name: country.name.common,
-            nativeNames: country.name.nativeName,
-            population: country.population,
-            continents: country.continents,
-            capitals: country.capital,
-            languages: country.languages,
+            name: country.name.common || country.cca3,
+            nativeNames: country.name.nativeName || {},
+            population: country.population || 0,
+            continents: country.continents || [],
+            capitals: country.capital || [],
+            languages: country.languages || {},
             currencies: country.currencies
               ? Object.keys(country.currencies).map((key) => `${country.currencies[key].name} (${key})`)
               : [],
-            borders: country.borders,
+            borders: country.borders || [],
           });
           // await downloadImage(country.cca3, country.flags.svg, 'svg');
           // await downloadImage(country.cca3, country.flags.png, 'png');

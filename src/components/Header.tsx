@@ -1,4 +1,4 @@
-import { Component, For, createEffect } from 'solid-js';
+import { Component, For } from 'solid-js';
 import { Link, useNavigate, useLocation } from 'solid-app-router';
 
 import { pinned, search, setSearch } from '../data/store';
@@ -6,12 +6,6 @@ import { pinned, search, setSearch } from '../data/store';
 export const Header: Component = () => {
   const navigate = useNavigate();
   const location = useLocation();
-
-  createEffect(() => {
-    if (search() !== '' && location.pathname !== '/') {
-      navigate('/');
-    }
-  });
 
   return (
     <div class='bg-gray-900 text-white flex flex-row w-full py-4'>
@@ -25,7 +19,10 @@ export const Header: Component = () => {
         <input
           type='text'
           value={search()}
-          onkeyup={(evt) => setSearch(evt.currentTarget.value)}
+          onkeyup={(evt) => {
+            setSearch(evt.currentTarget.value);
+            if (location.pathname !== '/') navigate('/');
+          }}
           placeholder='Search'
           class='p-2 text-xl bg-white text-black rounded-lg max-w-md w-96'
         />

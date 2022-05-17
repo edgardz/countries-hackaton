@@ -139,7 +139,8 @@
     },
     "currencies": [
       "Euro (EUR)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "GUM",
@@ -172,7 +173,8 @@
     },
     "currencies": [
       "United States dollar (USD)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "GEO",
@@ -298,7 +300,8 @@
     },
     "currencies": [
       "Mauritian rupee (MUR)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "LBN",
@@ -417,7 +420,8 @@
     },
     "currencies": [
       "United States dollar (USD)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "BRA",
@@ -655,7 +659,8 @@
     },
     "currencies": [
       "Australian dollar (AUD)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "REU",
@@ -678,7 +683,8 @@
     },
     "currencies": [
       "Euro (EUR)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "MSR",
@@ -701,7 +707,8 @@
     },
     "currencies": [
       "Eastern Caribbean dollar (XCD)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "TWN",
@@ -724,16 +731,21 @@
     },
     "currencies": [
       "New Taiwan dollar (TWD)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "ATA",
     "name": "Antarctica",
+    "nativeNames": {},
     "population": 1000,
     "continents": [
       "Antarctica"
     ],
-    "currencies": []
+    "capitals": [],
+    "languages": {},
+    "currencies": [],
+    "borders": []
   },
   {
     "code": "SPM",
@@ -756,7 +768,8 @@
     },
     "currencies": [
       "Euro (EUR)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "ARG",
@@ -875,7 +888,8 @@
     },
     "currencies": [
       "Eastern Caribbean dollar (XCD)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "FRO",
@@ -904,7 +918,8 @@
     "currencies": [
       "Danish krone (DKK)",
       "Faroese króna (FOK)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "MAR",
@@ -960,7 +975,8 @@
     },
     "currencies": [
       "Eastern Caribbean dollar (XCD)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "PLW",
@@ -988,7 +1004,8 @@
     },
     "currencies": [
       "United States dollar (USD)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "MNP",
@@ -1021,7 +1038,8 @@
     },
     "currencies": [
       "United States dollar (USD)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "MRT",
@@ -1183,7 +1201,8 @@
     },
     "currencies": [
       "Euro (EUR)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "COD",
@@ -1419,7 +1438,8 @@
     },
     "currencies": [
       "Netherlands Antillean guilder (ANG)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "GTM",
@@ -1476,7 +1496,8 @@
     },
     "currencies": [
       "United States dollar (USD)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "ATG",
@@ -1499,7 +1520,8 @@
     },
     "currencies": [
       "Eastern Caribbean dollar (XCD)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "ISR",
@@ -1585,7 +1607,8 @@
     },
     "currencies": [
       "Cayman Islands dollar (KYD)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "HRV",
@@ -1638,7 +1661,8 @@
     },
     "currencies": [
       "Icelandic króna (ISK)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "BES",
@@ -1667,7 +1691,8 @@
     },
     "currencies": [
       "United States dollar (USD)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "SXM",
@@ -1796,7 +1821,8 @@
     },
     "currencies": [
       "Eastern Caribbean dollar (XCD)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "GIB",
@@ -1875,7 +1901,8 @@
     },
     "currencies": [
       "Eastern Caribbean dollar (XCD)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "OMN",
@@ -1953,7 +1980,8 @@
     },
     "currencies": [
       "Euro (EUR)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "VIR",
@@ -1976,7 +2004,8 @@
     },
     "currencies": [
       "United States dollar (USD)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "BVT",
@@ -1991,10 +2020,12 @@
     "continents": [
       "Antarctica"
     ],
+    "capitals": [],
     "languages": {
       "nor": "Norwegian"
     },
-    "currencies": []
+    "currencies": [],
+    "borders": []
   },
   {
     "code": "GBR",
@@ -2071,7 +2102,8 @@
     },
     "currencies": [
       "Saint Helena pound (SHP)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "KHM",
@@ -2219,7 +2251,8 @@
     "currencies": [
       "Cook Islands dollar (CKD)",
       "New Zealand dollar (NZD)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "AND",
@@ -2302,7 +2335,8 @@
     },
     "currencies": [
       "Trinidad and Tobago dollar (TTD)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "COM",
@@ -2335,7 +2369,8 @@
     },
     "currencies": [
       "Comorian franc (KMF)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "ATF",
@@ -2358,7 +2393,8 @@
     },
     "currencies": [
       "Euro (EUR)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "UNK",
@@ -2481,7 +2517,8 @@
     },
     "currencies": [
       "New Zealand dollar (NZD)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "NCL",
@@ -2504,7 +2541,8 @@
     },
     "currencies": [
       "CFP franc (XPF)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "ETH",
@@ -2714,7 +2752,8 @@
     },
     "currencies": [
       "Barbadian dollar (BBD)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "JEY",
@@ -2748,7 +2787,8 @@
     "currencies": [
       "British pound (GBP)",
       "Jersey pound (JEP)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "IND",
@@ -2950,7 +2990,8 @@
     "currencies": [
       "Cuban convertible peso (CUC)",
       "Cuban peso (CUP)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "BTN",
@@ -3002,7 +3043,8 @@
     "currencies": [
       "Bahamian dollar (BSD)",
       "United States dollar (USD)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "NOR",
@@ -3127,7 +3169,8 @@
     },
     "currencies": [
       "New Zealand dollar (NZD)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "SWE",
@@ -3177,7 +3220,8 @@
     },
     "currencies": [
       "Euro (EUR)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "GAB",
@@ -3224,6 +3268,7 @@
     "continents": [
       "Asia"
     ],
+    "capitals": [],
     "languages": {
       "por": "Portuguese",
       "zho": "Chinese"
@@ -3267,7 +3312,8 @@
     "currencies": [
       "British pound (GBP)",
       "Guernsey pound (GGP)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "RWA",
@@ -3422,7 +3468,8 @@
     },
     "currencies": [
       "United States dollar (USD)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "ESH",
@@ -3491,7 +3538,8 @@
     "currencies": [
       "British pound (GBP)",
       "Manx pound (IMP)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "BWA",
@@ -3611,7 +3659,8 @@
     },
     "currencies": [
       "CFP franc (XPF)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "SDN",
@@ -3671,7 +3720,8 @@
     },
     "currencies": [
       "CFP franc (XPF)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "SVK",
@@ -3724,7 +3774,8 @@
     },
     "currencies": [
       "Euro (EUR)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "CXR",
@@ -3747,7 +3798,8 @@
     },
     "currencies": [
       "Australian dollar (AUD)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "SLB",
@@ -3770,7 +3822,8 @@
     },
     "currencies": [
       "Solomon Islands dollar (SBD)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "LVA",
@@ -3822,7 +3875,8 @@
     },
     "currencies": [
       "United States dollar (USD)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "JAM",
@@ -3850,7 +3904,8 @@
     },
     "currencies": [
       "Jamaican dollar (JMD)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "AFG",
@@ -3986,7 +4041,8 @@
     },
     "currencies": [
       "Tongan paʻanga (TOP)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "KIR",
@@ -4015,7 +4071,8 @@
     "currencies": [
       "Australian dollar (AUD)",
       "Kiribati dollar (KID)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "ERI",
@@ -4149,7 +4206,8 @@
     },
     "currencies": [
       "Vanuatu vatu (VUV)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "BIH",
@@ -4270,7 +4328,8 @@
     },
     "currencies": [
       "krone (NOK)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "WSM",
@@ -4298,7 +4357,8 @@
     },
     "currencies": [
       "Samoan tālā (WST)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "BOL",
@@ -4371,7 +4431,8 @@
     },
     "currencies": [
       "Malagasy ariary (MGA)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "STP",
@@ -4394,7 +4455,8 @@
     },
     "currencies": [
       "São Tomé and Príncipe dobra (STN)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "BHR",
@@ -4417,7 +4479,8 @@
     },
     "currencies": [
       "Bahraini dinar (BHD)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "GRC",
@@ -4542,7 +4605,8 @@
     },
     "currencies": [
       "United States dollar (USD)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "NER",
@@ -4632,7 +4696,8 @@
     "currencies": [
       "Australian dollar (AUD)",
       "Tuvaluan dollar (TVD)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "PRK",
@@ -4750,7 +4815,8 @@
     },
     "currencies": [
       "New Zealand dollar (NZD)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "ARM",
@@ -4846,7 +4912,8 @@
     },
     "currencies": [
       "New Zealand dollar (NZD)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "MWI",
@@ -4938,7 +5005,8 @@
     },
     "currencies": [
       "Philippine peso (PHP)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "CZE",
@@ -5025,7 +5093,8 @@
     },
     "currencies": [
       "Australian dollar (AUD)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "ROU",
@@ -5174,7 +5243,8 @@
     },
     "currencies": [
       "Euro (EUR)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "TUR",
@@ -5290,7 +5360,8 @@
     },
     "currencies": [
       "Euro (EUR)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "BEL",
@@ -5461,10 +5532,12 @@
     "continents": [
       "Antarctica"
     ],
+    "capitals": [],
     "languages": {
       "eng": "English"
     },
-    "currencies": []
+    "currencies": [],
+    "borders": []
   },
   {
     "code": "FJI",
@@ -5497,7 +5570,8 @@
     },
     "currencies": [
       "Fijian dollar (FJD)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "SMR",
@@ -5600,7 +5674,8 @@
     },
     "currencies": [
       "Eastern Caribbean dollar (XCD)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "UMI",
@@ -5623,7 +5698,8 @@
     },
     "currencies": [
       "United States dollar (USD)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "BLR",
@@ -5739,7 +5815,8 @@
     },
     "currencies": [
       "Australian dollar (AUD)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "BMU",
@@ -5762,7 +5839,8 @@
     },
     "currencies": [
       "Bermudian dollar (BMD)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "NIC",
@@ -5845,7 +5923,8 @@
     },
     "currencies": [
       "United States dollar (USD)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "FSM",
@@ -5868,7 +5947,8 @@
     },
     "currencies": [
       "United States dollar (USD)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "PSE",
@@ -6227,7 +6307,8 @@
     },
     "currencies": [
       "Eastern Caribbean dollar (XCD)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "UZB",
@@ -6326,7 +6407,8 @@
     },
     "currencies": [
       "Aruban florin (AWG)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "DNK",
@@ -6375,7 +6457,8 @@
     },
     "currencies": [
       "Japanese yen (JPY)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "CPV",
@@ -6398,7 +6481,8 @@
     },
     "currencies": [
       "Cape Verdean escudo (CVE)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "CHE",
@@ -6632,7 +6716,8 @@
     },
     "currencies": [
       "Australian dollar (AUD)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "KOR",
@@ -6840,7 +6925,8 @@
     },
     "currencies": [
       "Maldivian rufiyaa (MVR)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "SGP",
@@ -6878,7 +6964,8 @@
     },
     "currencies": [
       "Singapore dollar (SGD)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "MCO",
@@ -7157,7 +7244,8 @@
     },
     "currencies": [
       "Seychellois rupee (SCR)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "BRN",
@@ -7236,7 +7324,8 @@
     "currencies": [
       "Pound sterling (GBP)",
       "Saint Helena pound (SHP)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "SLE",
@@ -7322,7 +7411,8 @@
     },
     "currencies": [
       "krone (DKK)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "COL",
@@ -7411,7 +7501,8 @@
     },
     "currencies": [
       "Falkland Islands pound (FKP)"
-    ]
+    ],
+    "borders": []
   },
   {
     "code": "PRT",
